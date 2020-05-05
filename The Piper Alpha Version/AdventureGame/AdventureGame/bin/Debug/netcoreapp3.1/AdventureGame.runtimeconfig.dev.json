@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/daria/.dotnet/store/|arch|/|tfm|",
+      "/Users/daria/.nuget/packages"
+    ]
+  }
+}
